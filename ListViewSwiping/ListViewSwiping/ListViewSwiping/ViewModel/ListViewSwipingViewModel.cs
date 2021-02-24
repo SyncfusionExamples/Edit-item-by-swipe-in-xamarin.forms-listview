@@ -6,6 +6,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Xamarin.Forms;
+using SwipeEndedEventArgs = Syncfusion.ListView.XForms.SwipeEndedEventArgs;
+using SwipeStartedEventArgs = Syncfusion.ListView.XForms.SwipeStartedEventArgs;
 
 namespace Swiping
 {
